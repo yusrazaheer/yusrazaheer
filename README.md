@@ -18,8 +18,9 @@
 
   <!-- Laravel (fixed) -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-  </a>
+  <img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/laravel.svg" alt="laravel" width="40" height="40"/>
+</a>
+
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
