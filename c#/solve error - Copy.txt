@@ -1,0 +1,42 @@
+using System;
+
+namespace ConsoleApp6
+{
+    internal class Program
+    {
+        class Data
+        {
+            private string name;
+            private int age;
+
+            public void setName(string name)
+            {
+                this.name = name;
+            }
+            public string getName()
+            {
+                Console.WriteLine("My name is " + this.name);
+                return this.name;
+            }
+
+            public void setAge(int age)
+            {
+                this.age = age;
+            }
+            public int getAge()
+            {
+                Console.WriteLine("My age is " + this.age);
+                return this.age;
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            Data d = new Data();
+            d.setName("aliii");
+            d.getName();
+            d.setAge(25);
+            d.getAge();
+        }
+    }
+}
