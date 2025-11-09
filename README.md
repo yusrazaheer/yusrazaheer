@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm yusrazaheer</h1>
 <h3 align="center">Student of IT from Aptech!</h3>
+Apart from development, I am also a <b>Card Designer</b> and have basic skills in <b>Graphic Design</b>.
+
 
 - 📫 How to reach me from my Email **t96875346@gmail.com**
 - 🌐 My GitHub: [https://github.com/yusrazaheer](https://github.com/yusrazaheer)
